@@ -1,0 +1,25 @@
+.payment-box{
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  color: black;
+
+  justify-self: left;
+}
+
+.payment-form {
+  display: flex;
+  flex-direction: column;
+  background-color: aliceblue;
+  border-radius: 10px;
+  margin: auto;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.payment-form-item {
+    padding: 5px;
+}
+.payment-form-submit {
+    justify-self: center;
+}
